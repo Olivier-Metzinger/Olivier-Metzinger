@@ -2,13 +2,13 @@
 
 ## I'm a Developer !
 
-- 🌱 I’m currently learning ReactJS and Native and everything related to A.Is
+- 🌱 I’m currently learning ReactJS and Native and everything related to programming web/mobile.
 - 📝I mainly use Javascript, and I am also interested in Python.
 - 💬 Ask me about anything [here][githubIssue]
 
 ### Connect with me:
 
-[<img align="left" alt="raysoju | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="olivier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 
@@ -35,7 +35,7 @@ No Activity tracked this Week
 
 ## <br>
 
-<img align="left" alt="raysoju github stats" src="https://github-readme-stats.vercel.app/api?username=Olivier-Metzinger&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img align="left" alt="olivier github stats" src="https://github-readme-stats.vercel.app/api?username=Olivier-Metzinger&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 [linkedin]: https://www.linkedin.com/in/olivier-metzinger-3a1a8b112/
 [githubIssue]: https://github.com/Olivier-Metzinger/Olivier-Metzinger/issues
