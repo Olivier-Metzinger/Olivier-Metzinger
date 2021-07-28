@@ -2,8 +2,8 @@
 
 ## I'm a Developer !
 
-- 🌱 I’m currently learning ReactJS and Native and everything related to programming web/mobile.
-- 📝I mainly use Javascript, and I am also interested in Python.
+- 🌱 I’m currently learning ReactJS & React Native and everything related to programming web/mobile.
+- 📝 I am also interested in Python.
 - 💬 Ask me about anything [here][githubIssue]
 
 ### Connect with me:
